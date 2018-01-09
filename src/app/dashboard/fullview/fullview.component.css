@@ -1,0 +1,31 @@
+.tile p {
+    font-weight: bold;
+}
+
+
+.tile.tile-info {
+    background: hsl(0, 0%, 100%);
+    border-color: #1caf9a;
+    color: #1caf9a;
+}
+.tile.tile-info:hover {
+    background: hsl(187, 60%, 83%);
+}
+.plain-color0{
+    color: #1caf9a !important;
+}
+
+
+
+.color1{
+    background: hsl(0, 0%, 98%) !important;
+    border-color: #E91E63 !important;
+    color: #E91E63 !important;
+}
+.plain-color1{
+    color: #E91E63 !important;
+}
+
+#purchasing .tile.tile-info:hover{
+    background: rgb(238, 167, 191) !important;
+}
